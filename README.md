@@ -32,4 +32,4 @@ interpretation.
 
 ## Note
 
-Model files (.EDB) are excluded from this repo. See `.gitignore`.
+Model files (.EDB) are excluded from this repo.
